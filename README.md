@@ -22,18 +22,21 @@
 - Google meet 접속 후 세팅 방법
   - 오프라인 -> 온라인 전환 모임이므로 되도록 누군지 알아볼 수 있게 카메라를 켜 주셨으면 합니다.
   - 소음을 줄이기 위해 말하고 있지 않은 상황에서는 마이크를 꺼주세요.
+- 실제 진행한 시간대로 시간을 업데이트 했습니다.
 
 | 시간 | 내용 |
 |:----:|:----:|
 | 13:00 - 13:30 | 모임 취지 소개 및 모이신 멘티 분들의 소개시간 |
-| 13:30 - 14:00 | 김종필 발표: [자기 소개, 멘토링 시스템 개발에 대한 리뷰, 올해 활동한 내용 공유, 앞으로의 계획에 대한 발표](Presentations/HomeComingDay2020_jongfeel.md) |
-| 14:00 - 14:15 | 쉬는 시간, Kahoot it! 게임 세팅 및 설명 |
+| 13:30 - 14:05 | 김종필 발표: [자기 소개, 멘토링 시스템 개발에 대한 리뷰, 올해 활동한 내용 공유, 앞으로의 계획에 대한 발표](Presentations/HomeComingDay2020_jongfeel.md) |
+| 14:05 - 14:15 | 쉬는 시간, Kahoot it! 게임 세팅 및 설명 |
 | 14:15 - 14:30 | Kahoot it! 게임 |
-| 14:30 - 15:20 | 발표자 발표 1, 2 |
-| 15:20 - 15:30 | 쉬는 시간 |
-| 15:30 - 16:20 | 발표자 발표 3, 4 |
-| 16:20 - 16:30 | 쉬는 시간 |
-| 16:30 - 17:20 | 발표자 발표 5, 6 |
+| 14:30 - 15:00 | 장형규 발표: [당신이 모를만한 파이썬 기능 / 최적화 방법](Presentations/HomeComingDay2020-hqjang.pptx) |
+| 15:00 - 15:35 | 정혜인 발표: [웹에서 oauth2.0을 사용한 소셜로그인](Presentations/HomeComingDay2020_hyein.md) |
+| 15:35 - 15:50 | 쉬는 시간 |
+| 15:50 - 16:30 | 팽대원 발표: [Notion과 김정운 그리고 스윙댄스](Presentations/HomeComingDay2020_paeng.md) |
+| 16:30 - 16:50 | 조윤우 발표: [(나만 알기에는) 가슴이 웅장해지는 웹 생활 TMI](Presentations/HomeComingDay2020_yoonu.md) |
+| 16:50 - 17:00 | 쉬는 시간 |
+| 17:00 - 17:30 | 윤태원 발표: [개발을 하는 이유와 Dokky 프로젝트 경험 공유](Presentations/HomeComingDay2020-taewon.pptx.pptx) |
 | 17:30 - 18:00 | ~~아무말 대잔치~~자유로운 이야기, 단체 사진 촬영 |
 
 ## Presentation
@@ -66,3 +69,8 @@
 ## Go ahead!
 
 - 어? 뭔가 말하고 싶다 하시면 이제 [Issue](https://github.com/ThinkAboutSoftware/HomeComingDay2020/issues) 탭에 의견을 남겨주시면 됩니다.
+
+## Review
+
+- 후기를 추가했습니다.
+- [모임 후기](Reviews/Review_jongfeel.md)
